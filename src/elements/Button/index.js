@@ -80,6 +80,7 @@ Button.propTypes = {
   href: propTypes.string,
   target: propTypes.string,
   className: propTypes.string,
+  isPrimary: propTypes.bool,
   isExternal: propTypes.bool,
   isDisabled: propTypes.bool, // unutuk pengecekan buttn itu disable atau link juga disable
   isLoading: propTypes.bool, // isLoading button kaya ada animasi sedikit

@@ -1,0 +1,13 @@
+{
+    "duration":"2",
+    "price":"240",
+    "bookingDateStart":"new Date()",
+    "bookingDateEnd":"new Date()",
+    "firstName":"Harman Rakhmat",
+    "lastName":"Hidayatullah",
+    "emailAddress":"harmanyuhuuu1020@gmail.com",
+    "phoneNumber":"081221921013",
+    "accountHolder":"Harman Rakhmat Hidayatullah",
+    "bankFrom":"BCA",
+    "proofPayment":"FileData()"
+}
