@@ -1,0 +1,49 @@
+{
+    "asd1293uasdads1": {
+        "_id": "asd1293uasdads1",
+        "name": "Village Harman",
+        "type": "Hotel",
+        "imageUrls": [
+            {
+                "_id":"asd1293uasdads1",
+                "url":"/images/itemDetails1.png"
+            },
+            {
+                "_id":"asd1293uasdads1",
+                "url":"/images/itemDetails2.png"
+            },
+            {
+                "_id":"asd1293uasdads1",
+                "url":"/images/itemDetails3.png"
+            }
+        ],
+        "country": "Indonesia",
+        "city": "Bogor",
+        "price": "52",
+        "unit": "night",
+        "isPopular": true,
+        "hasBackyard":true,
+        "description": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis culpa ab necessitatibus aliquid, repudiandae provident perspiciatis eius architecto,</p>   <p> nam blanditiis, facere id eligendi in nostrum amet perferendis voluptatibus officiis? Doloribus temporibus dolores, maxime nam sequi, quos omnis autem illum nisi nostrum non deleniti nulla id, aliquid assumenda? Officiis sed impedit dolores! Magnam eveniet consequuntur, commodi ipsa, illo architecto temporibus aliquid, amet id aliquam neque? Facere, deserunt quae et assumenda placeat quisquam, magni officiis blanditiis cumque excepturi aliquid cupiditate unde accusantium! Quod dolor maiores libero laudantium expedita natus accusantium exercitationem odio omnis perferendis, aspernatur atque sapiente hic, quia quas a, tenetur harum modi repudiandae cupiditate aliquam blanditiis.</p> <p> Soluta, quibusdam similique fugiat nisi amet voluptatum repellendus quisquam quam reprehenderit, suscipit magnam, accusantium voluptate magni doloribus nesciunt animi expedita corporis atque quidem! </p>  <p> Nobis a placeat sed labore omnis, esse, nostrum beatae, excepturi culpa totam ad quidem error unde? Numquam libero quo eos aliquam, obcaecati voluptates, eaque modi unde omnis officiis quod hic! Odio itaque aliquam magnam dolor, natus voluptate quibusdam nostrum illo distinctio quod! Autem nemo quidem nesciunt sapiente eius repudiandae officiis esse deleniti voluptas eveniet voluptatum iure illo voluptate quia necessitatibus aspernatur maiores facilis fugiat, quaerat sunt voluptates rem error quibusdam reiciendis.</p>",
+        "features":[
+            {
+                "id":"asd1293uasdads1sad",
+                "qty": "3",
+                "nameItem": "bedroom",
+                "imageUrl": "/images/ic_bedrom.svg"
+            },
+            {
+                "_id":"asda1293uasdads23",
+                "qty":"2",
+                "nameItem":"living room",
+                "imageUrl": "/images/ic_livingroom.svg"
+            },
+            {
+                "_id":"asd1293uasdadsd14",
+                "qty":"1",
+                "nameItem":"bath room",
+                "imageUrl":"/images/ic_bathroom.svg"
+            }
+        ]
+    }
+    
+}
